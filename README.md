@@ -1,16 +1,20 @@
-## Hi there 👋
+# João Victor Santos Araujo
 
-<!--
-**joaovictorsaraujo/joaovictorsaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do quarto período de **Sistemas de Informação** no **IFES Campus Serra** e possuo enorme interesse na área de desenvolvimento de software.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Tenho experiência em
+- Lógica de Programação  
+- Estruturas de Dados  
+- HTML e CSS  
+
+## 🛠 Estou aprendendo
+- Java e Programação Orientada a Objetos  
+- Banco de Dados
+- ...
+
+
+🎯  Meu objetivo é crescer como desenvolvedor e trabalhar em soluções que realmente façam diferença.
+
+## Contato
+- Email: joaovictoraraujo.bsi@gmail.com  
