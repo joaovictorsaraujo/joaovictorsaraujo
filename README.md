@@ -13,6 +13,3 @@ Olá! Me chamo **João Victor**, sou estudante do quarto período de **Sistemas 
 
 
 🎯  Meu objetivo é crescer como desenvolvedor e trabalhar em soluções que realmente façam diferença.
-
-## Contato
-- Email: joaovictoraraujo.bsi@gmail.com  
