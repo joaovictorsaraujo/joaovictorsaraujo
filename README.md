@@ -3,11 +3,11 @@ Olá! Me chamo **João Victor**, sou estudante do quarto período de **Sistemas 
 
 ## 📌 Tenho experiência em
 - Lógica de Programação  
-- Estruturas de Dados  
-- HTML e CSS  
+- Estruturas de Dados
+- Programação Orientada a Objetos
+- HTML e CSS
 
-## 🛠 Estou aprendendo
-- Java e Programação Orientada a Objetos  
+## 🛠 Estou aprendendo 
 - Banco de Dados
 - Entre outros...
 
