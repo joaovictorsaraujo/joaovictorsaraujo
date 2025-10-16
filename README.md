@@ -5,7 +5,7 @@ Olá! Me chamo **João Victor**, sou estudante do quarto período de **Sistemas 
 - Lógica de Programação  
 - Estruturas de Dados
 - Programação Orientada a Objetos
-- HTML e CSS
+- Front-end básico
 
 ## 🛠 Estou aprendendo 
 - Banco de Dados
