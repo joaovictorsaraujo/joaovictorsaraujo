@@ -6,9 +6,11 @@ Olá! Me chamo **João Victor**, sou estudante do quarto período de **Sistemas 
 - Estruturas de Dados
 - Programação Orientada a Objetos
 - Front-end básico
+- Banco de Dados
 
 ## 🛠 Estou aprendendo 
-- Banco de Dados
+- Automação com n8n
+- Criação de agentes de IA
 - Entre outros...
 
 
